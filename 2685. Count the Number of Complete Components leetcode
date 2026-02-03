@@ -1,0 +1,31 @@
+class Solution {
+public:
+void dfs(int node,vector<int>&visited,vector<vector<int>>&adj,int &vertex,int &edges){
+    visited[node]=1;
+    vertex++;
+    edges+=adj[node].size();
+    for (int i:adj[node]){
+        if (!visited[i])
+        dfs(i,visited,adj,vertex,edges);
+    }
+}
+    int countCompleteComponents(int n, vector<vector<int>>& edge) {
+        int cnt = 0;
+        vector<vector<int>> adj(n);
+        for (auto& e : edge) {
+            adj[e[0]].push_back(e[1]);
+            adj[e[1]].push_back(e[0]);
+        }
+     
+        vector<int> visited(n, 0);
+        for (int i = 0; n > i; i++) {
+            if (!visited[i]){
+                int vertex=0,edges=0;
+                dfs(i,visited,adj,vertex,edges);
+                if (edges/2==vertex*(vertex-1)/2)
+                cnt++;
+            }
+        }
+        return cnt;
+    }
+};
