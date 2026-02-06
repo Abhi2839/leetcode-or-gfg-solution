@@ -1,0 +1,35 @@
+class Solution {
+public:
+    bool checkprime(int n) {
+        if (2 > n)
+            return false;
+        for (int i = 2; i * i <= n; i++) {
+            if (n % i == 0)
+                return false;
+        }
+        return true;
+    }
+    bool palindrome(int n) {
+        int a = n, b = 0;
+        while (n > 0) {
+            int r = n % 10;
+            b = b * 10 + r;
+            n /= 10;
+        }
+        return b == a;
+    }
+
+    int num(int a) {
+        if (checkprime(a)) {
+            if (palindrome(a)) {
+                return a;
+            }
+        }
+        return num(a + 1);
+    }
+    int primePalindrome(int n) {
+        if (1e7 <= n and n <= 1e8)
+            return 100030001;
+        return num(n);
+    }
+};
