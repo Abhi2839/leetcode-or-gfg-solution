@@ -1,0 +1,30 @@
+/*
+class Node {
+public:
+    int data;
+    Node *left;
+    Node *right;
+
+    Node(int val) {
+        data = val;
+        left = right = NULL;
+    }
+};
+*/
+class Solution {
+  public:
+  
+  int pathsum(Node*root,int &sum){
+      if (root==nullptr) return 0;
+      int l=max(pathsum(root->left,sum),0);
+      int r=max(pathsum(root->right,sum),0);
+      sum=max(sum,l+r+root->data);
+      return max(l,r)+root->data;
+  }
+    int findMaxSum(Node *root) {
+        // code here
+        int sum=INT_MIN;
+        pathsum(root,sum);
+        return sum;
+    }
+};
