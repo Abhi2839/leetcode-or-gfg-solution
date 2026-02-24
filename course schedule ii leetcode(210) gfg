@@ -1,0 +1,38 @@
+class Solution {
+public:
+    vector<int> findOrder(int n, vector<vector<int>>& graph) {
+        vector<vector<int>> adj(n);
+        queue<int> qu;
+        vector<int> indegree(n, 0);
+
+        for (auto x : graph) {
+            adj[x[1]].push_back(x[0]);
+        }
+        for (int i = 0; n > i; i++) {
+            for (auto x : adj[i]) {
+                indegree[x]++;
+            }
+        }
+        for (int i = 0; n > i; i++) {
+            if (indegree[i] == 0) {
+                qu.push(i);
+            }
+        }
+        vector<int> temp;
+        while (!qu.empty()) {
+            int x = qu.front();
+            qu.pop();
+            temp.push_back(x);
+
+            for (auto y : adj[x]) {
+                indegree[y]--;
+                if (indegree[y] == 0) {
+                    qu.push(y);
+                }
+            }
+        }
+        if (temp.size() != n)
+            return {};
+        return temp;
+    }
+};
