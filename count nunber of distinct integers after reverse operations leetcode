@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int rev(int x) {
+        int y = 0;
+        while (x > 0) {
+            int r = x % 10;
+            y = y * 10 + r;
+            x /= 10;
+        }
+        return y;
+    }
+    int countDistinctIntegers(vector<int>& nums) {
+        set<int> s(nums.begin(), nums.end());
+        for (auto x : nums) {
+            s.insert(rev(x));
+        }
+        return s.size();
+    }
+};

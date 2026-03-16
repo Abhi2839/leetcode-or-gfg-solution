@@ -1,0 +1,29 @@
+class Solution {
+public:
+    int ladderLength(string bw, string ew, vector<string>& wl) {
+        // bfs queue(pair) set
+        unordered_set<string> st(wl.begin(), wl.end());
+        queue<pair<string, int>> qu;
+        qu.push({bw, 1});
+
+        while (!qu.empty()) {
+            string word = qu.front().first;
+            int step = qu.front().second;
+            qu.pop();
+            if (word == ew)
+                return step;
+            for (int i = 0; word.length() > i; i++) {
+                char ch = word[i];
+                for (char j = 'a'; 'z' >= j; j++) {
+                    word[i] = j;
+                    if (st.find(word) != st.end()) {
+                        st.erase(word);
+                        qu.push({word, step + 1});
+                    }
+                }
+                word[i] = ch;
+            }
+        }
+        return 0;
+    }
+};

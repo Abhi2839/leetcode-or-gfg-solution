@@ -1,0 +1,26 @@
+class Solution {
+public:
+    vector<vector<int>> ans;
+    void dfs(vector<vector<int>>& graph, vector<int>& vis, int node,
+             int target) {
+        // vector<int>p;
+        vis.push_back(node);
+        if (node == target)
+            ans.push_back(vis);
+        else {
+            for (auto x : graph[node]) {
+                dfs(graph, vis, x, target);
+            }
+        }
+        vis.pop_back();
+    }
+    vector<vector<int>> allPathsSourceTarget(vector<vector<int>>& graph) {
+        int target = graph.size() - 1;
+        vector<int> vis;
+        // for (int i = 0; graph.size() > i; i++) {   for all possible path from any node
+            dfs(graph, vis, 0, target);
+        // }
+
+        return ans;
+    }
+};

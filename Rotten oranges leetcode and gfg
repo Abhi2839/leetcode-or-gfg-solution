@@ -1,0 +1,46 @@
+class Solution {
+public:
+    int orangesRotting(vector<vector<int>>& grid) {
+        int cnt = 0;
+        int m = grid.size();
+        int n = grid[0].size();
+        queue<pair<int, int>> qu;
+        for (int i = 0; m > i; i++) {
+            for (int j = 0; n > j; j++) {
+                if (grid[i][j] == 2)
+                    qu.push({i, j});
+                else if (grid[i][j] == 1)
+                    cnt++;
+            }
+        }
+        if (cnt == 0)
+            return 0;
+        int min = 0;
+        int dr[4] = {-1, 0, 1, 0};
+        int dc[4] = {0, 1, 0, -1};
+        while (!qu.empty()) {
+            int size = qu.size();
+            bool rotted = false;
+            for (int i = 0; size > i; i++) {
+                auto x = qu.front();
+                qu.pop();
+                int r = x.first;
+                int c = x.second;
+                for (int i = 0; 4 > i; i++) {
+                    int nrow = r + dr[i];
+                    int ncol = c + dc[i];
+                    if (nrow >= 0 and ncol >= 0 and m > nrow and n > ncol and
+                        grid[nrow][ncol] == 1) {
+                        grid[nrow][ncol] = 2;
+                        qu.push({nrow, ncol});
+                        rotted = true;
+                        cnt--;
+                    }
+                }
+            }
+            if (rotted)
+                min++;
+        }
+        return cnt == 0 ? min : -1;
+    }
+};

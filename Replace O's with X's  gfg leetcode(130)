@@ -1,0 +1,39 @@
+class Solution {
+  public:
+  void dfs(vector<vector<char>>&grid,vector<vector<int>>&vis,int i,int j){
+      int m=grid.size();
+      int n=grid[0].size();
+      int dr[4]={-1,0,1,0};
+      int dc[4]={0,1,0,-1};
+      vis[i][j]=1;
+      for (int k=0;4>k;k++){
+          int nrow=i+dr[k];
+          int ncol=j+dc[k];
+          if (nrow>=0 and m>nrow and ncol>=0 and n>ncol
+          and vis[nrow][ncol]==0 and grid[nrow][ncol]=='O'){
+              dfs(grid,vis,nrow,ncol);
+          }}}
+    void fill(vector<vector<char>>& grid) {
+        // Code here
+        // visited int 
+        int m=grid.size();
+        int n=grid[0].size();
+        vector<vector<int>>vis(m,vector<int>(n,0));
+         // first&last row and first& last col
+         for(int i=0;m>i;i++){
+            if (grid[i][0]=='O' and vis[i][0]==0) 
+            dfs(grid,vis,i,0);
+              if (grid[i][n-1]=='O' and vis[i][n-1]==0) 
+            dfs(grid,vis,i,n-1);}
+        for(int i=0;n>i;i++){
+            if (grid[0][i]=='O' and vis[0][i]==0) 
+            dfs(grid,vis,0,i);
+              if (grid[m-1][i]=='O' and vis[m-1][i]==0) 
+            dfs(grid,vis,m-1,i);}
+            for (int i=0;m>i;i++){
+            for (int j=0;n>j;j++){
+                if (!vis[i][j] and grid[i][j]=='O') {
+                    grid[i][j]='X';
+                }}        }
+    }
+};

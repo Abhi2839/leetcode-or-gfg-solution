@@ -1,0 +1,32 @@
+class Solution {
+  public:
+   void inorder(Node *root, vector<int>&ans){
+    if (root){
+        inorder(root->left,ans);
+        ans.push_back(root->data);
+        inorder(root->right,ans);
+}
+    }
+    vector<int> findCommon(Node *r1, Node *r2) {
+        vector<int>soln;   
+        vector<int>v,v1;
+   inorder(r1,v);
+      inorder(r2,v1);
+        int i=0,j=0;
+        int xv=v.size();
+        int xv1=v1.size();
+        while(xv>i and xv1>j){
+            if (v[i]==v1[j]){
+                soln.push_back(v[i]);
+                i++;
+                j++;
+            }
+            else if (v[i]>v1[j])
+                j++;
+            else 
+            i++;
+        }
+        return soln;
+        
+    }
+};

@@ -1,0 +1,17 @@
+class Solution {
+public:
+    vector<int> minDistinctFreqPair(vector<int>& nums) {
+        sort(nums.begin(), nums.end());
+        unordered_map<int,int>mp;
+        int n = nums.size();
+        for (auto x : nums)
+            mp[x]++;
+        for (int i = 0; n > i; i++) {
+            for (int j = i + 1; n > j; j++) {
+                if (mp[nums[i]] != mp[nums[j]])
+                    return {nums[i], nums[j]};
+            }
+        }
+        return {-1, -1};
+    }
+};

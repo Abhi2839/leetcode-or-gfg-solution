@@ -1,0 +1,33 @@
+    class Solution {
+    public:
+        void dfs(vector<vector<char>>& mat, vector<vector<int>>& vis, int i,
+                int j) {
+            int m = mat.size();
+            int n = mat[0].size();
+            if (i < 0 || j < 0 || i >= m || j >= n ||
+    vis[i][j] || mat[i][j] == '.')
+    return;
+
+            vis[i][j] = 1;
+            dfs(mat, vis, i - 1, j);
+            dfs(mat, vis, i, j - 1);
+            dfs(mat, vis, i + 1, j);
+            dfs(mat, vis, i, j + 1);
+        }
+        int countBattleships(vector<vector<char>>& mat) {
+            int cnt = 0;
+            // dfs
+            int m = mat.size();
+            int n = mat[0].size();
+            vector<vector<int>> vis(m, vector < int > (n, 0));
+            for (int i = 0; m > i; i++) {
+                for (int j = 0; n > j; j++) {
+                    if (!vis[i][j] and mat[i][j] == 'X') {
+                        cnt++;
+                        dfs(mat, vis, i, j);
+                    }
+                }
+            }
+            return cnt;
+        }
+    };

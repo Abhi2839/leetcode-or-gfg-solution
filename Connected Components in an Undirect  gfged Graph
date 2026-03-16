@@ -1,0 +1,33 @@
+class Solution {
+  public:
+  void dfs(vector<vector<int>>&adj,vector<int>&visited,int j,vector<int>&arr){
+      visited[j]=1;
+      arr.push_back(j);
+      for (int x:adj[j]){
+          vector<int>level;
+          if (!visited[x]){
+              dfs(adj,visited,x,arr);
+          }
+      }
+  }
+    vector<vector<int>> getComponents(int n, vector<vector<int>>& edges) {
+        // code here 
+  
+        vector<vector<int>> ans;
+       vector<int>visited(n,0);
+        vector<vector<int>> adj(n);
+         for (auto &e : edges) {
+            adj[e[0]].push_back(e[1]);
+            adj[e[1]].push_back(e[0]);
+        }
+        for (int i=0;n>i;i++){
+            if (!visited[i]){
+                vector<int>arr;
+                dfs(adj,visited,i,arr);
+                ans.push_back(arr);
+        }
+            
+        }
+        return ans;
+    }
+};
