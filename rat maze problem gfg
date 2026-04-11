@@ -1,0 +1,41 @@
+class Solution {
+  public:
+  
+  void solve(vector<vector<int>>&arr,int n,int i,int j,
+  vector<string>&ans,vector<vector<int>>&vis,string path){
+  
+  
+  if (i==n-1 and j==n-1) ans.push_back(path);
+  
+  int dr[4]={-1,0,1,0};
+  int dc[4]={0,1,0,-1};
+  char ch[4]={'U','R','D','L'};
+  
+    for (int k=0;4>k;k++){
+        
+        int nr=i+dr[k];
+        int nc=j+dc[k];
+        
+        if (nr>=0 and nc>=0 and n>nr and n>nc and !vis[nr][nc] and arr[nr][nc]==1){
+            vis[nr][nc]=1;
+            solve(arr,n,nr,nc,ans,vis,path+ch[k]);
+            vis[nr][nc]=0;
+        }
+    }
+      
+  }
+    vector<string> ratInMaze(vector<vector<int>>& arr) {
+        // code here
+        int n=arr.size();
+        vector<vector<int>>vis(n,vector<int>(n,0));
+        
+        vector<string>ans;
+        
+        if (arr[0][0]==0) return ans;
+        // string path=" ";
+        vis[0][0]=1;
+        solve(arr,n,0,0,ans,vis,"");
+        sort(ans.begin(),ans.end());
+        return ans;
+    }
+};
