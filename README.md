@@ -64,6 +64,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0048-rotate-image) |
 ## Math
 |  |
@@ -73,4 +74,8 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0048-rotate-image) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
