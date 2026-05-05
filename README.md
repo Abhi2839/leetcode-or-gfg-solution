@@ -66,6 +66,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0046-permutations](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0048-rotate-image) |
+| [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 ## Math
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Divide and Conquer
 |  |
@@ -98,5 +100,10 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2165-smallest-value-of-the-rearranged-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
