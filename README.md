@@ -109,4 +109,12 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0061-rotate-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
