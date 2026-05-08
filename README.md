@@ -86,6 +86,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0046-permutations](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0077-combinations) |
 ## Hash Table
 |  |
 | ------- |
