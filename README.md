@@ -70,6 +70,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [2057-smallest-index-with-equal-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2057-smallest-index-with-equal-value) |
 | [2363-merge-similar-items](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2363-merge-similar-items) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
