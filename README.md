@@ -74,6 +74,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
+| [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 ## Math
 |  |
 | ------- |
