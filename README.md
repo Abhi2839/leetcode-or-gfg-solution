@@ -169,6 +169,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0386-lexicographical-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0386-lexicographical-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -207,4 +208,8 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0287-find-the-duplicate-number) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
