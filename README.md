@@ -82,6 +82,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3819-rotate-non-negative-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3819-rotate-non-negative-elements) |
+| [3838-weighted-word-mapping](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
+| [3838-weighted-word-mapping](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,6 +219,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [3819-rotate-non-negative-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3819-rotate-non-negative-elements) |
+| [3838-weighted-word-mapping](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
