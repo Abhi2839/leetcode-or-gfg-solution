@@ -89,6 +89,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Matrix
 |  |
 | ------- |
