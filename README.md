@@ -70,6 +70,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2057-smallest-index-with-equal-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2057-smallest-index-with-equal-value) |
@@ -107,6 +108,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2206-divide-array-into-equal-pairs) |
@@ -131,6 +133,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
 |  |
@@ -144,6 +147,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0047-permutations-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
+| [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2363-merge-similar-items](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2363-merge-similar-items) |
 | [2784-check-if-array-is-good](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2784-check-if-array-is-good) |
@@ -169,6 +173,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3839-number-of-prefix-connected-groups) |
@@ -233,4 +238,16 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0386-lexicographical-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
