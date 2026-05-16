@@ -158,6 +158,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Two Pointers
@@ -250,4 +251,8 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
