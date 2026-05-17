@@ -73,6 +73,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
+| [0419-battleships-in-a-board](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0419-battleships-in-a-board) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2057-smallest-index-with-equal-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2057-smallest-index-with-equal-value) |
@@ -99,6 +100,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0048-rotate-image) |
+| [0419-battleships-in-a-board](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0419-battleships-in-a-board) |
 ## Backtracking
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0386-lexicographical-numbers) |
+| [0419-battleships-in-a-board](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0419-battleships-in-a-board) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
