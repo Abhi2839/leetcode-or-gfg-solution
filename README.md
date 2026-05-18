@@ -198,6 +198,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
@@ -206,6 +207,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0200-number-of-islands](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0419-battleships-in-a-board) |
+| [0543-diameter-of-binary-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
@@ -219,6 +221,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
 |  |
