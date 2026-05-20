@@ -5,7 +5,7 @@ public:
         int n=A.size();
         int cnt=0;
         vector<int>ans(n);
-        for(int i=0;i<A.size();i++)
+        for(int i=0;i<n;i++)
         {
             if(A[i]==B[i]){
                 mp[A[i]]+=2;
