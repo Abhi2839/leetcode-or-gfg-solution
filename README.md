@@ -89,6 +89,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -134,6 +135,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2729-check-if-the-number-is-fascinating](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2784-check-if-array-is-good) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3839-number-of-prefix-connected-groups) |
 ## String
@@ -143,6 +145,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0131-palindrome-partitioning](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3838-weighted-word-mapping](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3839-number-of-prefix-connected-groups) |
@@ -274,6 +277,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0386-lexicographical-numbers) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
