@@ -98,6 +98,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3819-rotate-non-negative-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3819-rotate-non-negative-elements) |
 | [3838-weighted-word-mapping](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3839-number-of-prefix-connected-groups) |
+| [3905-multi-source-flood-fill](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3905-multi-source-flood-fill) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0221-maximal-square](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0221-maximal-square) |
 | [0419-battleships-in-a-board](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0419-battleships-in-a-board) |
 | [0994-rotting-oranges](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0994-rotting-oranges) |
+| [3905-multi-source-flood-fill](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3905-multi-source-flood-fill) |
 ## Backtracking
 |  |
 | ------- |
@@ -234,6 +236,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0994-rotting-oranges) |
+| [3905-multi-source-flood-fill](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3905-multi-source-flood-fill) |
 ## Binary Tree
 |  |
 | ------- |
