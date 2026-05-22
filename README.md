@@ -64,6 +64,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0048-rotate-image) |
@@ -129,6 +130,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
