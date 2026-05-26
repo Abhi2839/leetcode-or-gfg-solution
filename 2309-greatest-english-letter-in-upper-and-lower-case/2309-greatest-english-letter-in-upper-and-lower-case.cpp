@@ -2,13 +2,19 @@ class Solution {
 public:
     string greatestLetter(string s) {
 
-        unordered_set<char> st;
-        for (auto x : s)
-            st.insert(x);
+        vector<int> sm(26, 0);
+        vector<int> cap(26, 0);
+
+        for (auto x : s) {
+            if (x >= 'a' and 'z' >= x)
+                sm[x - 'a'] = 1;
+            else
+                cap[x - 'A'] = 1;
+        }
         string ans = "";
-        for (char i = 'a'; 'z' >= i; i++) {
-            if (st.count(toupper(i)) and st.count(i))
-                ans = toupper(i);
+        for (int i = 0; 26 > i; i++) {
+            if (sm[i] and cap[i])
+                ans = i + 'A';
         }
         return ans;
     }
