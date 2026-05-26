@@ -154,6 +154,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2780-minimum-index-of-a-valid-split](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2784-check-if-array-is-good) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3527-find-the-most-common-response](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3527-find-the-most-common-response) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3839-number-of-prefix-connected-groups) |
@@ -166,6 +167,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3527-find-the-most-common-response](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3527-find-the-most-common-response) |
 | [3838-weighted-word-mapping](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3838-weighted-word-mapping) |
