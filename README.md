@@ -185,6 +185,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
@@ -218,6 +219,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -329,6 +331,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Bucket Sort
@@ -355,4 +358,8 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
