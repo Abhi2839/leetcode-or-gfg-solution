@@ -86,6 +86,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2057-smallest-index-with-equal-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2057-smallest-index-with-equal-value) |
 | [2126-destroying-asteroids](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2363-merge-similar-items](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2363-merge-similar-items) |
@@ -208,6 +209,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0229-majority-element-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [2126-destroying-asteroids](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2363-merge-similar-items](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2363-merge-similar-items) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2780-minimum-index-of-a-valid-split) |
@@ -218,6 +220,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 | [2126-destroying-asteroids](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2126-destroying-asteroids) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 ## Linked List
 |  |
