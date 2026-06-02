@@ -1,8 +1,10 @@
 class Solution {
 public:
-    int cal(vector<int>& ls,vector<int>& ld,vector<int>& ws,vector<int>& wd) {
+    int cal(vector<int>& ls, vector<int>& ld, vector<int>& ws,
+            vector<int>& wd) {
 
         int mini = INT_MAX;
+
         for (int i = 0; i < ls.size(); i++) {
             mini = min(mini, ls[i] + ld[i]);
         }
@@ -10,17 +12,17 @@ public:
         int ans = INT_MAX;
 
         for (int i = 0; i < ws.size(); i++) {
-            ans = min(ans,max(mini, ws[i]) + wd[i]);
+            ans = min(ans, max(mini, ws[i]) + wd[i]);
         }
 
         return ans;
     }
-    int earliestFinishTime(vector<int>& landStartTime, vector<int>& landDuration, vector<int>& waterStartTime, vector<int>& waterDuration) {
-
-        // land to water ,water to land
+    int earliestFinishTime(vector<int>& landStartTime,
+                           vector<int>& landDuration,
+                           vector<int>& waterStartTime,
+                           vector<int>& waterDuration) {
         return min(
-            cal(landStartTime,landDuration,waterStartTime,waterDuration),
-            cal(waterStartTime,waterDuration,landStartTime,landDuration)
-        );
+            cal(landStartTime, landDuration, waterStartTime, waterDuration),
+            cal(waterStartTime, waterDuration, landStartTime, landDuration));
     }
 };
