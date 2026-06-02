@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int calFinishTime(vector<int>& ls,vector<int>& ld,vector<int>& ws,vector<int>& wd) {
+    int cal(vector<int>& ls,vector<int>& ld,vector<int>& ws,vector<int>& wd) {
 
         int mini = INT_MAX;
         for (int i = 0; i < ls.size(); i++) {
@@ -19,8 +19,8 @@ public:
 
         // land to water ,water to land
         return min(
-            calFinishTime(landStartTime,landDuration,waterStartTime,waterDuration),
-            calFinishTime(waterStartTime,waterDuration,landStartTime,landDuration)
+            cal(landStartTime,landDuration,waterStartTime,waterDuration),
+            cal(waterStartTime,waterDuration,landStartTime,landDuration)
         );
     }
 };
