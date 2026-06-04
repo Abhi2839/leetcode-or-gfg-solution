@@ -1,10 +1,10 @@
 class Solution {
 public:
-    int waiv(int num) {
+    int waviness(int num) {
         string s = to_string(num);
         int cnt = 0;
 
-        for (int i = 1; i <s.size() - 1; i++) {
+        for (int i = 1; i < (int)s.size() - 1; i++) {
             if ((s[i] > s[i - 1] && s[i] > s[i + 1]) ||
                 (s[i] < s[i - 1] && s[i] < s[i + 1])) {
                 cnt++;
@@ -18,7 +18,7 @@ public:
         int ans = 0;
 
         for (int num = num1; num <= num2; num++) {
-            ans += waiv(num);
+            ans += waviness(num);
         }
 
         return ans;
