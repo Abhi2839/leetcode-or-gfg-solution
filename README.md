@@ -246,12 +246,14 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -395,4 +397,8 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0023-merge-k-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
