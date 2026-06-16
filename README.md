@@ -194,6 +194,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3527-find-the-most-common-response](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3527-find-the-most-common-response) |
+| [3612-process-string-with-special-operations-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3839-number-of-prefix-connected-groups) |
 ## Divide and Conquer
@@ -349,6 +350,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2553-separate-the-digits-in-an-array) |
+| [3612-process-string-with-special-operations-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3819-rotate-non-negative-elements) |
 | [3838-weighted-word-mapping](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
