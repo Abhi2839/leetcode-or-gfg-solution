@@ -405,4 +405,8 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
