@@ -122,6 +122,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0060-permutation-sequence) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1486-xor-operation-in-an-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
