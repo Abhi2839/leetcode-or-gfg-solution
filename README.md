@@ -84,6 +84,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0994-rotting-oranges](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1732-find-the-highest-altitude](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1732-find-the-highest-altitude) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2057-smallest-index-with-equal-value) |
 | [2126-destroying-asteroids](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2126-destroying-asteroids) |
@@ -341,6 +342,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1732-find-the-highest-altitude) |
 | [2488-count-subarrays-with-median-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2488-count-subarrays-with-median-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
