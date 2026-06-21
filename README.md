@@ -85,6 +85,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1732-find-the-highest-altitude](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2057-smallest-index-with-equal-value) |
 | [2126-destroying-asteroids](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2126-destroying-asteroids) |
@@ -226,6 +227,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
+| [1833-maximum-ice-cream-bars](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -239,6 +241,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -417,4 +420,8 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0178-rank-scores](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0183-customers-who-never-order) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
