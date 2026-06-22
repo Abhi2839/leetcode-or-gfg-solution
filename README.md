@@ -104,6 +104,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2574-left-and-right-sum-differences](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2761-prime-pairs-with-target-sum) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2784-check-if-array-is-good) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -136,6 +137,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2761-prime-pairs-with-target-sum) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3783-mirror-distance-of-an-integer) |
@@ -299,6 +301,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0258-add-digits](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0258-add-digits) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2761-prime-pairs-with-target-sum) |
 ## Tree
 |  |
 | ------- |
@@ -415,6 +418,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0204-count-primes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0204-count-primes) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2761-prime-pairs-with-target-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Combinatorics
 |  |
