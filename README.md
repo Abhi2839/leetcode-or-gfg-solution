@@ -75,6 +75,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0169-majority-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0229-majority-element-ii) |
@@ -124,6 +125,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0048-rotate-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0060-permutation-sequence) |
+| [0204-count-primes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0204-count-primes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1486-xor-operation-in-an-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -289,6 +291,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0204-count-primes) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
 ## Tree
@@ -404,6 +407,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0204-count-primes) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Combinatorics
