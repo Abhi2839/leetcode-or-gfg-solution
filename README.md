@@ -123,6 +123,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0060-permutation-sequence) |
 | [0204-count-primes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0204-count-primes) |
