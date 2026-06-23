@@ -138,6 +138,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2729-check-if-the-number-is-fascinating](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2761-prime-pairs-with-target-sum) |
+| [3280-convert-date-to-binary](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3783-mirror-distance-of-an-integer) |
@@ -207,6 +208,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3280-convert-date-to-binary](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3280-convert-date-to-binary) |
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3527-find-the-most-common-response](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3527-find-the-most-common-response) |
 | [3612-process-string-with-special-operations-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3612-process-string-with-special-operations-i) |
