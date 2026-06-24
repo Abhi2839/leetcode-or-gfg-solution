@@ -11,8 +11,9 @@ public:
         for (int i = 0; i < n - 1; i++) {
             int f = s[i] - '0';
             int se = s[i + 1] - '0';
-            if (f != se && f == freq[s[i] - '0'] &&
-                se == freq[s[i + 1] - '0']) {
+            if (f == se)
+                continue;
+            if (f == freq[s[i] - '0'] && se == freq[s[i + 1] - '0']) {
                 ans.push_back(s[i]);
                 ans.push_back(s[i + 1]);
                 break;
