@@ -448,6 +448,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0178-rank-scores](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0183-customers-who-never-order) |
+| [0185-department-top-three-salaries](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0185-department-top-three-salaries) |
 ## Counting Sort
 |  |
 | ------- |
