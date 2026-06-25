@@ -1,11 +1,11 @@
 class Solution {
 public:
-    int countMajoritySubarrays(vector<int>& nums, int tgt) {
+    int countMajoritySubarrays(vector<int>& nums, int target) {
         int ans = 0;
         for (int i = 0; nums.size() > i; i++) {
             int cnt = 0;
             for (int j = i; nums.size() > j; j++) {
-                if (nums[j] == tgt) {
+                if (nums[j] == target) {
                     cnt++;
                 }
 
@@ -17,3 +17,6 @@ public:
         return ans;
     }
 };
+
+// rem 0 to k-1
+// sum of sub %k  hashmap
