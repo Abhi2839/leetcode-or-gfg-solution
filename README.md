@@ -121,6 +121,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3527-find-the-most-common-response](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3527-find-the-most-common-response) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -204,6 +205,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3527-find-the-most-common-response) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3839-number-of-prefix-connected-groups) |
 ## String
@@ -273,6 +275,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -463,6 +466,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Database
 |  |
 | ------- |
@@ -490,4 +494,8 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0622-design-circular-queue) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
