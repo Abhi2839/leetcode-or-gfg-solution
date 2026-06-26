@@ -282,6 +282,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0707-design-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
@@ -477,6 +478,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0707-design-linked-list) |
 ## Segment Tree
 |  |
 | ------- |
