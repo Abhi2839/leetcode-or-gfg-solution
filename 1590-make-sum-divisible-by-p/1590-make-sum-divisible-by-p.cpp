@@ -1,8 +1,7 @@
 class Solution {
 public:
     int minSubarray(vector<int>& nums, int p) {
-        //  appraoch total sum // curr sum  // x subt rneeded_sumt %p        //
-        //  mp[x]=i
+        //  appraoch total sum // curr sum  // x subt rneeded_sumt %p        // mp[x]=i
 
         unordered_map<int, int> mp;
         mp[0] = -1; // base case
@@ -23,6 +22,6 @@ public:
 
             mp[curr_sum] = i;
         }
-        return len == nums.size() ? -1 : len;
+      return len == nums.size() ? -1 : len;
     }
 };
