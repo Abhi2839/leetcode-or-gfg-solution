@@ -1,11 +1,9 @@
 class Solution {
 public:
-    int numOfStrings(vector<string>& arr, string str) {
-        // word.contains(word[i])
-        int cnt = 0;
-        for (auto x : arr) {
-            if (str.contains(x))
-                cnt++;
+    int numOfStrings(vector<string>& arr, string word) {
+        int cnt=0;
+        for (auto x:arr){
+            if (word.contains(x)) cnt++;
         }
         return cnt;
     }
