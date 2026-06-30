@@ -190,6 +190,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2206-divide-array-into-equal-pairs) |
@@ -226,6 +227,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0709-to-lower-case](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0796-rotate-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -259,6 +261,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0424-longest-repeating-character-replacement](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sorting
 |  |
