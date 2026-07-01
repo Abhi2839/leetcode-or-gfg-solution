@@ -13,7 +13,7 @@ public:
                     dp[i][j] = max(dp[i][j - 1], dp[i - 1][j]);
             }
         }
-       return dp[a][b];
-     
+        int lcs = dp[a][b];
+        return lcs;
     }
 };
