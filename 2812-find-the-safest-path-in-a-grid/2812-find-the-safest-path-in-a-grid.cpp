@@ -34,7 +34,6 @@ public:
                 }
             }
         }
- // Dijkstra using Max Heap
         priority_queue<pair<int, pair<int, int>>> pq;
         vector<vector<bool>> vis2(n, vector<bool>(n, false));
  pq.push({dist[0][0], {0, 0}});
