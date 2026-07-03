@@ -372,6 +372,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0210-course-schedule-ii) |
 | [0386-lexicographical-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0386-lexicographical-numbers) |
 | [0419-battleships-in-a-board](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0419-battleships-in-a-board) |
@@ -383,6 +384,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0210-course-schedule-ii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -552,6 +554,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0210-course-schedule-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -561,5 +564,6 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
