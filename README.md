@@ -94,6 +94,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1109-corporate-flight-bookings) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1672-richest-customer-wealth](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1732-find-the-highest-altitude) |
@@ -151,6 +152,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0507-perfect-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0507-perfect-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1486-xor-operation-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -413,6 +415,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0221-maximal-square](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0221-maximal-square) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1143-longest-common-subsequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search Tree
 |  |
@@ -437,6 +440,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1109-corporate-flight-bookings) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1732-find-the-highest-altitude) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
