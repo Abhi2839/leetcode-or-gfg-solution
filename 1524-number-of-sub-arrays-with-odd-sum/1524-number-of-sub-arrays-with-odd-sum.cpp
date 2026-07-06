@@ -1,6 +1,8 @@
 class Solution {
 public:
     int numOfSubarrays(vector<int>& arr) {
+        // convert array into 0 1 form
+        // if there are more ones then return count that
         const int mod = 1e9 + 7;
         int n = arr.size();
         for (int i = 0; n > i; i++)
