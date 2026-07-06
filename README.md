@@ -93,6 +93,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0994-rotting-oranges](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1109-corporate-flight-bookings) |
+| [1288-remove-covered-intervals](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1590-make-sum-divisible-by-p) |
@@ -282,6 +283,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0229-majority-element-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1288-remove-covered-intervals](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2126-destroying-asteroids) |
