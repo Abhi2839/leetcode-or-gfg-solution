@@ -384,6 +384,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0543-diameter-of-binary-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -394,6 +395,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0210-course-schedule-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0210-course-schedule-ii) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0684-redundant-connection](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0684-redundant-connection) |
 | [0994-rotting-oranges](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0994-rotting-oranges) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -501,6 +503,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Enumeration
@@ -567,6 +570,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0207-course-schedule](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
