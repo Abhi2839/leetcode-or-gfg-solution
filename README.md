@@ -91,6 +91,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0622-design-circular-queue](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0622-design-circular-queue) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0983-minimum-cost-for-tickets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1109-corporate-flight-bookings) |
@@ -430,6 +431,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0221-maximal-square](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0279-perfect-squares) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0583-delete-operation-for-two-strings) |
+| [0983-minimum-cost-for-tickets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0983-minimum-cost-for-tickets) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
