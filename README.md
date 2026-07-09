@@ -200,6 +200,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0001-two-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
@@ -239,6 +240,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0022-generate-parentheses) |
+| [0127-word-ladder](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -400,6 +402,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0207-course-schedule) |
