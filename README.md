@@ -134,6 +134,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3527-find-the-most-common-response](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3527-find-the-most-common-response) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3689-maximum-total-subarray-value-i) |
@@ -229,6 +230,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3527-find-the-most-common-response](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3527-find-the-most-common-response) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3839-number-of-prefix-connected-groups) |
@@ -454,6 +456,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2540-minimum-common-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Prefix Sum
 |  |
@@ -525,6 +528,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -593,6 +597,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
