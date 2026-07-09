@@ -151,6 +151,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0204-count-primes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0279-perfect-squares) |
 | [0507-perfect-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0507-perfect-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -398,6 +399,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0200-number-of-islands](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0279-perfect-squares) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -426,6 +428,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0118-pascals-triangle](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0279-perfect-squares) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0583-delete-operation-for-two-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1143-longest-common-subsequence) |
