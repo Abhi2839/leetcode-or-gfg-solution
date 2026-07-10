@@ -116,6 +116,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2363-merge-similar-items](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2363-merge-similar-items) |
 | [2404-most-frequent-even-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2404-most-frequent-even-element) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2488-count-subarrays-with-median-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2488-count-subarrays-with-median-k) |
 | [2540-minimum-common-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2553-separate-the-digits-in-an-array) |
@@ -258,6 +259,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2351-first-letter-to-appear-twice) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -503,6 +505,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0386-lexicographical-numbers) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Heap (Priority Queue)
 |  |
