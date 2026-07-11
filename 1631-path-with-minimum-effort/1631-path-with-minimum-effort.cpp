@@ -25,7 +25,7 @@ public:
             for (int k = 0; 4 > k; k++) {
                 int nr = dr[k] + r;
                 int nc = dc[k] + c;
-               if (nr >= 0 and nc >= 0 and m > nr and n > nc) {
+                if (nr >= 0 and nc >= 0 and m > nr and n > nc) {
                     int newdiff = max(abs(arr[nr][nc] - arr[r][c]), diff);
                     if (dist[nr][nc] > newdiff) {
                         dist[nr][nc] = newdiff;
