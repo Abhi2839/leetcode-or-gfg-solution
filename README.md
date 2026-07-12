@@ -158,6 +158,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0263-ugly-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0279-perfect-squares) |
 | [0507-perfect-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0507-perfect-number) |
+| [1025-divisor-game](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1486-xor-operation-in-an-array) |
@@ -449,6 +450,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0279-perfect-squares](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0279-perfect-squares) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0983-minimum-cost-for-tickets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0983-minimum-cost-for-tickets) |
+| [1025-divisor-game](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -630,4 +632,12 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1137-n-th-tribonacci-number) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
