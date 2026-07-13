@@ -86,6 +86,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0283-move-zeroes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0303-range-sum-query-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0419-battleships-in-a-board) |
@@ -186,6 +187,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0073-set-matrix-zeroes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0221-maximal-square) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0419-battleships-in-a-board) |
 | [0994-rotting-oranges](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0994-rotting-oranges) |
@@ -405,6 +407,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0200-number-of-islands](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0419-battleships-in-a-board) |
@@ -425,6 +428,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0207-course-schedule](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0279-perfect-squares) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0433-minimum-genetic-mutation) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
@@ -458,6 +462,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0131-palindrome-partitioning](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0279-perfect-squares) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0983-minimum-cost-for-tickets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0983-minimum-cost-for-tickets) |
@@ -624,6 +629,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0207-course-schedule](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -642,9 +648,11 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0207-course-schedule](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Memoization
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1137-n-th-tribonacci-number) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Brainteaser
