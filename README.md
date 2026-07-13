@@ -120,6 +120,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2404-most-frequent-even-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2404-most-frequent-even-element) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2488-count-subarrays-with-median-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2488-count-subarrays-with-median-k) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2574-left-and-right-sum-differences) |
@@ -167,6 +168,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2761-prime-pairs-with-target-sum) |
