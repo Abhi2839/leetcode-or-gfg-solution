@@ -135,6 +135,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -173,6 +174,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2729-check-if-the-number-is-fascinating](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2761-prime-pairs-with-target-sum) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3280-convert-date-to-binary](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
