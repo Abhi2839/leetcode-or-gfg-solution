@@ -26,9 +26,9 @@ public:
         int ans = 0;
         for (int i = 0; m > i; i++) {
             for (int j = 0; n > j; j++) {
-                ans = max(ans, dfs(arr, i, j, dp));
+                ans = max(ans, 1 + dfs(arr, i, j, dp));
             }
         }
-        return ans + 1;
+        return ans;
     }
 };
