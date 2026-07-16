@@ -1,5 +1,8 @@
 class Solution {
 public:
+long long gcd(int a,int b){
+    return b==0?a:gcd(b,a%b);
+}
     long long gcdSum(vector<int>& nums) {
         long long ans = 0;
         int n = nums.size();
@@ -8,7 +11,7 @@ public:
         for (int i = 0; n > i; i++) {
 
             mx_element = max(mx_element, nums[i]);
-            pref[i] = __gcd(mx_element, nums[i]);
+            pref[i] = gcd(mx_element, nums[i]);
         }
 
         //    sort
@@ -17,7 +20,7 @@ public:
             cout << x << " ";
         int i = 0, j = n - 1;
         while (j > i) {
-            ans += __gcd(pref[i], pref[j]);
+            ans += gcd(pref[i], pref[j]);
             j--;
             i++;
         }
