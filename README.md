@@ -489,6 +489,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1137-n-th-tribonacci-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search Tree
@@ -655,6 +656,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0684-redundant-connection](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0997-find-the-town-judge](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0997-find-the-town-judge) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -665,6 +667,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
@@ -673,6 +676,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0207-course-schedule](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
 | ------- |
