@@ -151,6 +151,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3819-rotate-non-negative-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3819-rotate-non-negative-elements) |
 | [3838-weighted-word-mapping](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3838-weighted-word-mapping) |
 | [3839-number-of-prefix-connected-groups](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3839-number-of-prefix-connected-groups) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3905-multi-source-flood-fill](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3905-multi-source-flood-fill) |
 ## Math
 |  |
@@ -182,6 +183,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -328,6 +330,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2784-check-if-array-is-good](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -364,6 +367,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Ordered Set
 |  |
 | ------- |
@@ -393,6 +397,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2761-prime-pairs-with-target-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -522,6 +527,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3612-process-string-with-special-operations-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3819-rotate-non-negative-elements) |
 | [3838-weighted-word-mapping](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
