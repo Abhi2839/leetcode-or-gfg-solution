@@ -100,6 +100,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0997-find-the-town-judge](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1109-corporate-flight-bookings) |
+| [1260-shift-2d-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -202,6 +203,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0419-battleships-in-a-board) |
 | [0994-rotting-oranges](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -532,6 +534,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0258-add-digits) |
+| [1260-shift-2d-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1260-shift-2d-grid) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
