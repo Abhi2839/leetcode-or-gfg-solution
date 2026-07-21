@@ -282,6 +282,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1143-longest-common-subsequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -378,6 +379,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0870-advantage-shuffle](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0870-advantage-shuffle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -660,6 +662,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0796-rotate-string) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Graph Theory
 |  |
