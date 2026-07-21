@@ -118,6 +118,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2126-destroying-asteroids](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2191-sort-the-jumbled-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2191-sort-the-jumbled-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2206-divide-array-into-equal-pairs) |
@@ -284,6 +285,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2351-first-letter-to-appear-twice) |
@@ -658,6 +660,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0796-rotate-string) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Graph Theory
 |  |
 | ------- |
