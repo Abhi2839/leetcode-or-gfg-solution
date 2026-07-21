@@ -15,7 +15,7 @@ public:
             if (len > x.length())
                 continue;
 
-            for (int j = 0; x.length() > j; j++) {
+            for (int j = 0; len > j; j++) {
                 if (x[j] == sw[j])
                     cnt++;
                 else
