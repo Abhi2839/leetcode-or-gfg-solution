@@ -75,6 +75,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0057-insert-interval](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0118-pascals-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0169-majority-element) |
@@ -203,6 +204,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0054-spiral-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -223,6 +225,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0046-permutations](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0131-palindrome-partitioning) |
 ## Hash Table
 |  |
@@ -277,6 +280,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
@@ -445,6 +449,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0199-binary-tree-right-side-view) |
