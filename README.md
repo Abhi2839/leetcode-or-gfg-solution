@@ -173,6 +173,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0048-rotate-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0060-permutation-sequence) |
 | [0204-count-primes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0204-count-primes) |
+| [0233-number-of-digit-one](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0279-perfect-squares) |
@@ -523,6 +524,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0118-pascals-triangle](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0583-delete-operation-for-two-strings) |
@@ -625,6 +627,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0060-permutation-sequence) |
+| [0233-number-of-digit-one](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0233-number-of-digit-one) |
 ## Union-Find
 |  |
 | ------- |
