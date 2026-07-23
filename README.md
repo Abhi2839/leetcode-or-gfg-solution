@@ -441,6 +441,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -453,6 +454,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0199-binary-tree-right-side-view) |
@@ -502,6 +504,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -535,6 +538,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0035-search-insert-position) |
+| [0098-validate-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0209-minimum-size-subarray-sum) |
