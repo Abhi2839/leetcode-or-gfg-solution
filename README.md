@@ -188,6 +188,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2719-count-of-integers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2719-count-of-integers) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2761-prime-pairs-with-target-sum) |
@@ -309,6 +310,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2719-count-of-integers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2719-count-of-integers) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -535,6 +537,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1143-longest-common-subsequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1143-longest-common-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2719-count-of-integers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2719-count-of-integers) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search Tree
