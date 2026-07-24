@@ -282,6 +282,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0127-word-ladder) |
