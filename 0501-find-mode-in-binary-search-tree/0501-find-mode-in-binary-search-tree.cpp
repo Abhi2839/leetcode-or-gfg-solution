@@ -13,29 +13,28 @@
 class Solution {
 public:
     vector<int> ans;
-    int prev_val, cnt = 0, maxi = 0;
-
-    void solve(TreeNode* root) {
+    int val, cnt = 0, maxcnt = 0;
+    void inorder(TreeNode* root) {
         if (!root)
             return;
-        solve(root->left);
-        if (prev_val == root->val)
-            cnt++;
-        else
-            cnt = 1;
+        inorder(root->left);
+            if (val == root->val)
+                cnt++;
+            else
+                cnt = 1;
 
-        if (cnt > maxi) {
-            maxi = cnt;
+        if (cnt > maxcnt) {
+            maxcnt=cnt;
             ans.clear();
             ans.push_back(root->val);
-        } else if (cnt == maxi)
+        } else if (cnt == maxcnt)
             ans.push_back(root->val);
 
-        prev_val = root->val;
-        solve(root->right);
+        val = root->val;
+        inorder(root->right);
     }
     vector<int> findMode(TreeNode* root) {
-        solve(root);
+        inorder(root);
         return ans;
     }
 };
