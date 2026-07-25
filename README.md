@@ -195,6 +195,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3280-convert-date-to-binary](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -368,6 +369,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2733-neither-minimum-nor-maximum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2733-neither-minimum-nor-maximum) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
