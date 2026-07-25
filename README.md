@@ -65,6 +65,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0035-search-insert-position) |
@@ -328,6 +329,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0169-majority-element) |
@@ -548,6 +550,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0035-search-insert-position) |
