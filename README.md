@@ -138,6 +138,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2255-count-prefixes-of-a-given-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2363-merge-similar-items) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2404-most-frequent-even-element) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2488-count-subarrays-with-median-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2488-count-subarrays-with-median-k) |
@@ -272,6 +273,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2363-merge-similar-items](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2363-merge-similar-items) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2404-most-frequent-even-element) |
 | [2488-count-subarrays-with-median-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2488-count-subarrays-with-median-k) |
 | [2540-minimum-common-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2540-minimum-common-value) |
@@ -430,6 +432,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -680,6 +683,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1534-count-good-triplets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2761-prime-pairs-with-target-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
