@@ -155,6 +155,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2798-number-of-employees-who-met-the-target](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2906-construct-product-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2906-construct-product-matrix) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -230,6 +231,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1631-path-with-minimum-effort](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1672-richest-customer-wealth) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2906-construct-product-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3905-multi-source-flood-fill](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3905-multi-source-flood-fill) |
@@ -606,6 +608,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2488-count-subarrays-with-median-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2488-count-subarrays-with-median-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2574-left-and-right-sum-differences) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2906-construct-product-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2906-construct-product-matrix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
