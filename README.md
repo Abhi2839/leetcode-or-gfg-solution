@@ -132,6 +132,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2206-divide-array-into-equal-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2363-merge-similar-items](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2363-merge-similar-items) |
 | [2404-most-frequent-even-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2404-most-frequent-even-element) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -263,6 +264,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2363-merge-similar-items](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2363-merge-similar-items) |
 | [2404-most-frequent-even-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2404-most-frequent-even-element) |
@@ -438,6 +440,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1189-maximum-number-of-balloons](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1399-count-largest-group) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2206-divide-array-into-equal-pairs) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2404-most-frequent-even-element) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
