@@ -66,6 +66,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0001-two-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0035-search-insert-position) |
@@ -359,6 +360,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
@@ -412,6 +414,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0283-move-zeroes) |
