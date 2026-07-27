@@ -113,6 +113,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1288-remove-covered-intervals](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1534-count-good-triplets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1534-count-good-triplets) |
 | [1590-make-sum-divisible-by-p](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1590-make-sum-divisible-by-p) |
@@ -381,6 +382,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2126-destroying-asteroids) |
@@ -649,6 +651,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0692-top-k-frequent-words](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
