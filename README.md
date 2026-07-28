@@ -343,6 +343,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3340-check-balanced-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3340-check-balanced-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3527-find-the-most-common-response) |
 | [3612-process-string-with-special-operations-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3838-weighted-word-mapping) |
@@ -396,6 +397,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2733-neither-minimum-nor-maximum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2733-neither-minimum-nor-maximum) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2784-check-if-array-is-good](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2784-check-if-array-is-good) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -729,6 +731,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
 | ------- |
