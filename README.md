@@ -328,6 +328,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2000-reverse-prefix-of-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -436,6 +437,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -711,6 +713,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [2000-reverse-prefix-of-word](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Database
