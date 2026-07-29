@@ -422,6 +422,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0061-rotate-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0206-reverse-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -680,6 +681,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0233-number-of-digit-one) |
 ## Union-Find
 |  |
