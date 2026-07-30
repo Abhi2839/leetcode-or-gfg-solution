@@ -1,12 +1,11 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-        int n = word.size();
+        if (8 > word.length())
+            return word.length();
         int ans = 0;
-if (8>n) return n;
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; word.length() > i; i++)
             ans += (i / 8) + 1;
-        }
 
         return ans;
     }
