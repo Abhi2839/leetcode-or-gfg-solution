@@ -306,6 +306,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0079-word-search) |
@@ -435,6 +436,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0151-reverse-words-in-a-string) |
@@ -573,6 +575,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0118-pascals-triangle) |
