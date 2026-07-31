@@ -6,7 +6,7 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        if (0 > i or 0 > j or m <= i or n <= j or grid[i][j] == '0' or 
+        if (0 > i or 0 > j or m <= i or n <= j or grid[i][j] == '0' or
             vis[i][j] == 1)
             return;
         vis[i][j] = 1;
