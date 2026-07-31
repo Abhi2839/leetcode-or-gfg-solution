@@ -169,6 +169,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3527-find-the-most-common-response](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3527-find-the-most-common-response) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -239,6 +240,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2906-construct-product-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3905-multi-source-flood-fill](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3905-multi-source-flood-fill) |
 ## Backtracking
@@ -533,6 +535,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1971-find-if-path-exists-in-graph](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -560,6 +563,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3905-multi-source-flood-fill](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3905-multi-source-flood-fill) |
 ## Binary Tree
 |  |
@@ -709,6 +713,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2685-count-the-number-of-complete-components](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
