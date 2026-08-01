@@ -71,6 +71,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0048-rotate-image) |
@@ -249,6 +250,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0077-combinations) |
