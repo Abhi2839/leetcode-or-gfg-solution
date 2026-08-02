@@ -105,6 +105,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0692-top-k-frequent-words](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0692-top-k-frequent-words) |
 | [0870-advantage-shuffle](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0870-advantage-shuffle) |
 | [0890-find-and-replace-pattern](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0890-find-and-replace-pattern) |
+| [0973-k-closest-points-to-origin](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0983-minimum-cost-for-tickets) |
@@ -198,6 +199,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0279-perfect-squares](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0279-perfect-squares) |
 | [0507-perfect-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [0973-k-closest-points-to-origin](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1137-n-th-tribonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -372,6 +374,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0169-majority-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0973-k-closest-points-to-origin](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0973-k-closest-points-to-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
@@ -398,6 +401,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0692-top-k-frequent-words) |
 | [0870-advantage-shuffle](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0870-advantage-shuffle) |
+| [0973-k-closest-points-to-origin](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1331-rank-transform-of-an-array) |
@@ -686,6 +690,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0692-top-k-frequent-words](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -701,6 +706,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -840,4 +846,8 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0239-sliding-window-maximum) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
