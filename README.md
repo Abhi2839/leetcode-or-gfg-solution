@@ -272,6 +272,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0202-happy-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -329,6 +330,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0151-reverse-words-in-a-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0290-word-pattern) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -398,6 +400,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0169-majority-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0628-maximum-product-of-three-numbers) |
