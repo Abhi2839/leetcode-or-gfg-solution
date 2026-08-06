@@ -1,19 +1,16 @@
 class Solution {
 public:
     string largestNumber(vector<int>& nums) {
-        vector<string> st;
-        // converting num to string
+        vector<string> ans;
         for (auto x : nums)
-            st.push_back(to_string(x));
-        // storing the result
-        string ans = "";
-        sort(st.begin(), st.end(),
-             [](string a, string b) { return a + b > b + a; });
-        if (st[0] == "0")
-            return "0";
+            ans.push_back(to_string(x));
 
-        for (auto x : st)
-            ans += x;
-        return ans;
+        sort(ans.begin(), ans.end(),
+             [&](const string& a, const string& b) { return a + b > b + a; });
+        string s = "";
+        for (auto x : ans)
+            s += x;
+            if (s[0]=='0') return "0";
+        return s;
     }
 };
