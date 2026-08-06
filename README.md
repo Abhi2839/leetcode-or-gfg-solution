@@ -79,6 +79,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0057-insert-interval](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0118-pascals-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -233,6 +234,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0054-spiral-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0221-maximal-square) |
@@ -626,6 +628,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
