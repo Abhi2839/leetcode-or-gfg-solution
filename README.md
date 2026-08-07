@@ -186,6 +186,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3839-number-of-prefix-connected-groups](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3839-number-of-prefix-connected-groups) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3903-smallest-stable-index-i) |
 | [3905-multi-source-flood-fill](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3905-multi-source-flood-fill) |
 ## Math
 |  |
@@ -664,6 +665,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2906-construct-product-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2906-construct-product-matrix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
