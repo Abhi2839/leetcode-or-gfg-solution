@@ -530,6 +530,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0543-diameter-of-binary-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -601,6 +602,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Dynamic Programming
 |  |
@@ -640,6 +642,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0287-find-the-duplicate-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0287-find-the-duplicate-number) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1631-path-with-minimum-effort) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -703,6 +706,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0239-sliding-window-maximum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0692-top-k-frequent-words) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0973-k-closest-points-to-origin) |
@@ -791,6 +795,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0208-implement-trie-prefix-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0622-design-circular-queue) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0707-design-linked-list) |
 ## Segment Tree
 |  |
@@ -866,4 +871,8 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0973-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
