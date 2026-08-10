@@ -4,16 +4,14 @@ public:
         stringstream ss(s);
         string words;
         vector<string> ans;
-        while (ss >> words)
+        while (ss >> words) {
             ans.push_back(words);
-        cout << ans[0];
-        words = "";
-        for (int i = 0; ans.size() / 2 > i; i++)
-            swap(ans[i], ans[ans.size() - i - 1]);
-        for (int i = 0; ans.size() - 1 > i; i++)
-            words += ans[i] + " ";
-
-        words += ans[ans.size() - 1];
-        return words;
+        }
+        reverse(ans.begin(), ans.end());
+        string st = "";
+        for (int i = 0; ans.size() - 1 > i; i++) {
+            st += ans[i] + " ";
+        }
+        return st + ans[ans.size() - 1];
     }
 };
