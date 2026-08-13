@@ -213,6 +213,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2719-count-of-integers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2719-count-of-integers) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2729-check-if-the-number-is-fascinating) |
