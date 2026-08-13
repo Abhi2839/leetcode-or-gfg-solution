@@ -213,6 +213,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2719-count-of-integers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2719-count-of-integers) |
@@ -516,6 +517,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0258-add-digits](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2761-prime-pairs-with-target-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -682,6 +684,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3819-rotate-non-negative-elements) |
@@ -883,4 +886,20 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0202-happy-number) |
+## Prime Factorization
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Primality Test
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 <!---LeetCode Topics End-->
