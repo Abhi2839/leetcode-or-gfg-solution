@@ -878,4 +878,8 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
