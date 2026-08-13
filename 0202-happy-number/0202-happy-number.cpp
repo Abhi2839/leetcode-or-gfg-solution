@@ -1,21 +1,20 @@
 class Solution {
 public:
-int sum (int n){
+int sum(int a){
     int ans=0;
-    while(n>0){
-        int r=n%10;
+    while(a>0){
+        int r=a%10;
         ans+=(r*r);
-        n/=10;
+        a/=10;
     }
     return ans;
 }
     bool isHappy(int n) {
-        int slow=n,fast=n;
-        do{
-            slow=sum(slow);
-            fast=sum(sum(fast));
-        }
-        while(slow!=fast);
-        return slow==1;
+     unordered_set<int>st;
+     while(n!=1 and st.find(n)==st.end()){
+        st.insert(n);
+        n=sum(n);
+     }
+        return n==1;
     }
 };
