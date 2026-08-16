@@ -5,7 +5,8 @@ public:
         int idx = -1;
 
         for (int i = 0; i < drones.size(); i++) {
-            int dist = abs(t[0] - drones[i][0]) + abs(t[1] - drones[i][1]);
+            int dist = abs(t[0] - drones[i][0])
+                     + abs(t[1] - drones[i][1]);
 
             if (dist <= drones[i][2] && minDist > dist) {
                 minDist = dist;
