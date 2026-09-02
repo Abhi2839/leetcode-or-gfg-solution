@@ -915,4 +915,8 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
