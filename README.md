@@ -77,6 +77,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0047-permutations-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0073-set-matrix-zeroes) |
@@ -416,6 +417,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0018-4sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0229-majority-element-ii) |
@@ -919,4 +921,8 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0022-generate-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
