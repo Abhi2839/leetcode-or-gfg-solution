@@ -103,6 +103,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0419-battleships-in-a-board) |
 | [0454-4sum-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0454-4sum-ii) |
+| [0525-contiguous-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0525-contiguous-array) |
 | [0622-design-circular-queue](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0692-top-k-frequent-words) |
@@ -291,6 +292,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0424-longest-repeating-character-replacement](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0433-minimum-genetic-mutation) |
 | [0454-4sum-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0454-4sum-ii) |
+| [0525-contiguous-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0791-custom-sort-string) |
@@ -674,6 +676,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1109-corporate-flight-bookings) |
