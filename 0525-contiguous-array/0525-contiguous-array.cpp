@@ -5,7 +5,7 @@
 class Solution {
 public:
     int findMaxLength(std::vector<int>& nums) {
-        std::unordered_map<int, int> mp;
+    unordered_map<int, int> mp;
         mp[0] = -1;
         
         int max_len = 0;
