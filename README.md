@@ -238,6 +238,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3871-count-commas-in-range-ii) |
 ## Matrix
 |  |
 | ------- |
