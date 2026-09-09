@@ -1,0 +1,14 @@
+class Solution {
+public:
+    long long countCommas(long long n) {
+        long long ans=0;
+         if (1000>n) return 0;
+
+       long long fourdigit=1000; // min 4 digit number
+        while(n>=fourdigit){
+            ans+=(n-fourdigit)+1;
+            fourdigit*=1000;
+        }
+        return ans;
+    }
+};
