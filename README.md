@@ -177,6 +177,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3478-choose-k-elements-with-maximum-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3527-find-the-most-common-response](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3527-find-the-most-common-response) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -330,6 +331,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3527-find-the-most-common-response](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3527-find-the-most-common-response) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -763,6 +765,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0060-permutation-sequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0233-number-of-digit-one) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
 | ------- |
@@ -787,6 +790,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2761-prime-pairs-with-target-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2761-prime-pairs-with-target-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Combinatorics
 |  |
