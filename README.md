@@ -137,6 +137,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1995-count-special-quadruplets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1995-count-special-quadruplets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2057-smallest-index-with-equal-value) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -308,6 +309,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1399-count-largest-group](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1399-count-largest-group) |
 | [1590-make-sum-divisible-by-p](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1995-count-special-quadruplets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1995-count-special-quadruplets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -441,6 +443,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -765,6 +768,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0060-permutation-sequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0233-number-of-digit-one) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
@@ -785,6 +789,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1291-sequential-digits](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1291-sequential-digits) |
 | [1534-count-good-triplets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1995-count-special-quadruplets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2367-number-of-arithmetic-triplets) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2761-prime-pairs-with-target-sum) |
