@@ -83,6 +83,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0073-set-matrix-zeroes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0118-pascals-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0169-majority-element) |
@@ -426,6 +427,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0018-4sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0229-majority-element-ii) |
@@ -492,6 +494,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0018-4sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0283-move-zeroes) |
