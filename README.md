@@ -73,6 +73,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0035-search-insert-position](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0048-rotate-image) |
@@ -284,6 +285,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0001-two-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0169-majority-element) |
