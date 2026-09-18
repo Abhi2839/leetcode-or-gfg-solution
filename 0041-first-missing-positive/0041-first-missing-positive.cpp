@@ -1,21 +1,14 @@
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-        int res = 1;
-        int n = nums.size();
-        vector<int> idx(n);
-        iota(idx.begin(), idx.end(), 0);
-        sort(idx.begin(), idx.end(),
-             [&](int a, int b) { 
-                return nums[a] < nums[b]; 
-                });
-
-        for (auto x : idx) {
-            if (nums[x] == res)
-                res++;
-            else if (nums[x] > res)
+        unordered_set<int> st(nums.begin(), nums.end());
+        int ans = 1;
+        while (true) {
+            if (st.count(ans))
+                ans++;
+            else
                 break;
         }
-        return res;
+        return ans;
     }
 };
