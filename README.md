@@ -198,6 +198,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3898-find-the-degree-of-each-vertex](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3903-smallest-stable-index-i) |
 | [3905-multi-source-flood-fill](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3905-multi-source-flood-fill) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Math
 |  |
 | ------- |
@@ -269,6 +270,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3905-multi-source-flood-fill](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3905-multi-source-flood-fill) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Backtracking
 |  |
 | ------- |
@@ -721,6 +723,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3819-rotate-non-negative-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3819-rotate-non-negative-elements) |
 | [3838-weighted-word-mapping](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [4052-cyclically-shift-rows-and-columns](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/4052-cyclically-shift-rows-and-columns) |
 ## Bit Manipulation
 |  |
 | ------- |
