@@ -89,6 +89,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -653,6 +654,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0063-unique-paths-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0279-perfect-squares) |
