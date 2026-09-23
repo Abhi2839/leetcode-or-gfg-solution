@@ -129,6 +129,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1534-count-good-triplets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1534-count-good-triplets) |
 | [1590-make-sum-divisible-by-p](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-path-with-minimum-effort](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1833-maximum-ice-cream-bars) |
@@ -313,6 +314,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1399-count-largest-group](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1399-count-largest-group) |
 | [1590-make-sum-divisible-by-p](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1995-count-special-quadruplets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -423,6 +425,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -683,6 +686,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0703-kth-largest-element-in-a-stream](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2540-minimum-common-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -700,6 +704,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1109-corporate-flight-bookings](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1109-corporate-flight-bookings) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1590-make-sum-divisible-by-p) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1732-find-the-highest-altitude) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2488-count-subarrays-with-median-k](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2488-count-subarrays-with-median-k) |
