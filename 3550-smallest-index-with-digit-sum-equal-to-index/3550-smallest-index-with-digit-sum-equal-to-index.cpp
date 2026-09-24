@@ -1,16 +1,16 @@
 class Solution {
 public:
-    int sum(int a) {
-        int s = 0;
+    int digit_sum(int a) {
+        int sum = 0;
         while (a > 0) {
-            s += a % 10;
+            sum += a % 10;
             a /= 10;
         }
-        return s;
+        return sum;
     }
     int smallestIndex(vector<int>& nums) {
         for (int i = 0; nums.size() > i; i++) {
-            if (sum(nums[i]) == i)
+            if (digit_sum(nums[i]) == i)
                 return i;
         }
         return -1;
