@@ -358,6 +358,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0006-zigzag-conversion](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0151-reverse-words-in-a-string) |
@@ -506,6 +507,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0031-next-permutation](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0283-move-zeroes) |
