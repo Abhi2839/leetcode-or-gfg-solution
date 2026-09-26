@@ -133,6 +133,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1732-find-the-highest-altitude) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -318,6 +319,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1399-count-largest-group](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1399-count-largest-group) |
 | [1590-make-sum-divisible-by-p](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1995-count-special-quadruplets](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1995-count-special-quadruplets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -380,6 +382,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1189-maximum-number-of-balloons](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
