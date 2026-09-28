@@ -383,6 +383,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -837,6 +838,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -965,6 +967,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
 |  |
 | ------- |
