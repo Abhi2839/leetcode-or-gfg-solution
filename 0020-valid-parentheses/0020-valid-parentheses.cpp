@@ -3,17 +3,18 @@ public:
     bool isValid(string s) {
         stack<char> st;
         for (auto x : s) {
-            if (x == '(' or x == '[' or x == '{')
+            if (x == '(' or x == '[' or x == '{') {
                 st.push(x);
-            else {
-                if (x == ')' and st.top() == '(' and  !st.empty())
+            } else {
+              
+                if (!st.empty() and st.top() == '(' and x == ')')
                     st.pop();
-                else if (st.top() == '[' and x == ']' and !st.empty())
+                else if (!st.empty() and st.top() == '[' and x == ']')
                     st.pop();
-                else if (st.top() == '{' and x == '}' and !st.empty())
+                else if (!st.empty() and st.top() == '{' and x == '}')
                     st.pop();
                 else
-                    return 0;
+                    return false; 
             }
         }
         return st.empty();
