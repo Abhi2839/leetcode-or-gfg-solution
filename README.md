@@ -358,6 +358,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0125-valid-palindrome) |
@@ -835,6 +836,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -965,6 +967,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
