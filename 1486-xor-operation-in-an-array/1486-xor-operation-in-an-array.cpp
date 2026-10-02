@@ -1,9 +1,10 @@
 class Solution {
 public:
-    int xorOperation(int n, int start) {
-        int ans =0;
-        for (int i=0;n>i;i++){
-            ans^=(start+2*i);
+    int xorOperation(int n, int s) {
+        int ans = 0;
+        while (n--) {
+            ans ^= s;
+            s += 2;
         }
         return ans;
     }
