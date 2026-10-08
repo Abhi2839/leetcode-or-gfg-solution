@@ -380,6 +380,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0791-custom-sort-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0890-find-and-replace-pattern) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -842,6 +843,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0032-longest-valid-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2000-reverse-prefix-of-word) |
@@ -973,6 +975,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0020-valid-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quicksort
