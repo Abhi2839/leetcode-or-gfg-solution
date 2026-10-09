@@ -230,6 +230,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2651-calculate-delayed-arrival-time](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2651-calculate-delayed-arrival-time) |
 | [2719-count-of-integers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2719-count-of-integers) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2748-number-of-beautiful-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2748-number-of-beautiful-pairs) |
