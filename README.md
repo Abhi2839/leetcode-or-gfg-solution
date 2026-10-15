@@ -132,6 +132,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1631-path-with-minimum-effort](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1833-maximum-ice-cream-bars) |
@@ -756,6 +757,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0191-number-of-1-bits](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0287-find-the-duplicate-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1720-decode-xored-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
