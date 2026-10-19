@@ -144,6 +144,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2032-two-out-of-three](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2032-two-out-of-three) |
 | [2057-smallest-index-with-equal-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2057-smallest-index-with-equal-value) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -471,6 +472,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2094-finding-3-digit-even-numbers) |
 | [2126-destroying-asteroids](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -709,6 +711,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1631-path-with-minimum-effort](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
