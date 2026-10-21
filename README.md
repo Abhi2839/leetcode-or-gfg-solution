@@ -110,6 +110,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0622-design-circular-queue](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0692-top-k-frequent-words) |
+| [0832-flipping-an-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0832-flipping-an-image) |
 | [0870-advantage-shuffle](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0870-advantage-shuffle) |
 | [0890-find-and-replace-pattern](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0890-find-and-replace-pattern) |
 | [0973-k-closest-points-to-origin](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0973-k-closest-points-to-origin) |
@@ -268,6 +269,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0419-battleships-in-a-board) |
+| [0832-flipping-an-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1260-shift-2d-grid) |
@@ -529,6 +531,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0283-move-zeroes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0832-flipping-an-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0832-flipping-an-image) |
 | [0870-advantage-shuffle](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0870-advantage-shuffle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -743,6 +746,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1260-shift-2d-grid) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -761,6 +765,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1486-xor-operation-in-an-array) |
 | [1720-decode-xored-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1720-decode-xored-array) |
 | [2032-two-out-of-three](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2032-two-out-of-three) |
