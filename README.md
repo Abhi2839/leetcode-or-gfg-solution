@@ -923,6 +923,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0743-network-delay-time](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0997-find-the-town-judge](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
