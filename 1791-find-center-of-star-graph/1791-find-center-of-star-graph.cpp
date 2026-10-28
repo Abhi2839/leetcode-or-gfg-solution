@@ -2,6 +2,7 @@ class Solution {
 public:
     int findCenter(vector<vector<int>>& edges) {
         int n = edges.size();
+        // vector<vector<int>>adj[n+1];
         vector<int> freq(n + 2, 0);
         for (auto& x : edges) {
             freq[x[0]]++;
