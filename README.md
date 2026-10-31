@@ -883,6 +883,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0183-customers-who-never-order](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0183-customers-who-never-order) |
 | [0185-department-top-three-salaries](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0185-department-top-three-salaries) |
 | [0584-find-customer-referee](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0596-classes-with-at-least-5-students) |
 | [1179-reformat-department-table](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1179-reformat-department-table) |
 ## Counting Sort
