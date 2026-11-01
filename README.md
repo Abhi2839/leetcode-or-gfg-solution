@@ -889,6 +889,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0595-big-countries](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0607-sales-person) |
+| [1075-project-employees-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1075-project-employees-i) |
 | [1179-reformat-department-table](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1179-reformat-department-table) |
 ## Counting Sort
 |  |
