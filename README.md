@@ -108,6 +108,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0419-battleships-in-a-board](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0419-battleships-in-a-board) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0454-4sum-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0525-contiguous-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0525-contiguous-array) |
 | [0622-design-circular-queue](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -223,6 +224,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0263-ugly-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0973-k-closest-points-to-origin) |
@@ -467,6 +469,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0242-valid-anagram](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0791-custom-sort-string) |
