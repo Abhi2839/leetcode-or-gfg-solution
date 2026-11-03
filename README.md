@@ -897,6 +897,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0620-not-boring-movies](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1075-project-employees-i) |
 | [1179-reformat-department-table](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1179-reformat-department-table) |
+| [1965-employees-with-missing-information](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1965-employees-with-missing-information) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 ## Counting Sort
 |  |
