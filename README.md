@@ -109,6 +109,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0454-4sum-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0506-relative-ranks](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0525-contiguous-array) |
 | [0622-design-circular-queue](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -472,6 +473,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0506-relative-ranks](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0791-custom-sort-string) |
@@ -799,6 +801,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0023-merge-k-sorted-lists](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0743-network-delay-time) |
