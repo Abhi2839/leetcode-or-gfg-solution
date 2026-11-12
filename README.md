@@ -187,6 +187,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
