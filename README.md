@@ -920,6 +920,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1075-project-employees-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1084-sales-analysis-iii) |
 | [1179-reformat-department-table](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1179-reformat-department-table) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [1965-employees-with-missing-information](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1965-employees-with-missing-information) |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3601-find-drivers-with-improved-fuel-efficiency) |
 ## Counting Sort
