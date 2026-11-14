@@ -194,6 +194,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3478-choose-k-elements-with-maximum-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3478-choose-k-elements-with-maximum-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3527-find-the-most-common-response](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3527-find-the-most-common-response) |
@@ -465,6 +466,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -765,6 +767,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [2848-points-that-intersect-with-cars](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2848-points-that-intersect-with-cars) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2906-construct-product-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2906-construct-product-matrix) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
