@@ -323,6 +323,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0242-valid-anagram](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0433-minimum-genetic-mutation) |
@@ -393,6 +394,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0208-implement-trie-prefix-tree](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0383-ransom-note) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0433-minimum-genetic-mutation) |
@@ -574,6 +576,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0169-majority-element](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1189-maximum-number-of-balloons) |
 | [1399-count-largest-group](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1399-count-largest-group) |
