@@ -192,6 +192,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3364-minimum-positive-sum-subarray) |
@@ -254,6 +255,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3280-convert-date-to-binary](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3280-convert-date-to-binary) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -367,6 +369,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3295-report-spam-message](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3295-report-spam-message) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3483-unique-3-digit-even-numbers) |
