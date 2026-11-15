@@ -110,6 +110,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0454-4sum-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0500-keyboard-row](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0525-contiguous-array) |
 | [0622-design-circular-queue](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0622-design-circular-queue) |
@@ -330,6 +331,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0424-longest-repeating-character-replacement](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0433-minimum-genetic-mutation) |
 | [0454-4sum-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0454-4sum-ii) |
+| [0500-keyboard-row](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0692-top-k-frequent-words) |
@@ -402,6 +404,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0424-longest-repeating-character-replacement](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0433-minimum-genetic-mutation) |
 | [0434-number-of-segments-in-a-string](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0434-number-of-segments-in-a-string) |
+| [0500-keyboard-row](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0500-keyboard-row) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0709-to-lower-case) |
