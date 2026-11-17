@@ -66,6 +66,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0001-two-sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0033-search-in-rotated-sorted-array) |
@@ -478,6 +479,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0056-merge-intervals) |
@@ -549,6 +551,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0061-rotate-list) |
