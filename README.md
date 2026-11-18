@@ -85,6 +85,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [0073-set-matrix-zeroes](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0118-pascals-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -903,6 +904,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1021-remove-outermost-parentheses) |
@@ -959,6 +961,7 @@ Consider starring ⭐ the repository to support and track future updates.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## String Matching
 |  |
@@ -1059,4 +1062,8 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0056-merge-intervals) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
