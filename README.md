@@ -248,6 +248,7 @@ Consider starring ⭐ the repository to support and track future updates.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -1025,6 +1026,7 @@ Consider starring ⭐ the repository to support and track future updates.
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/0973-k-closest-points-to-origin) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Abhi2839/leetcode-or-gfg-solution/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Data Stream
 |  |
 | ------- |
